@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Waleed-Ibrahim14
-- 👀 I’m interested in programming web and mobile applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming web and mobile applications .
+- 🌱 I’m currently learning Dart Programming Languege .
 
 <!---
 Waleed-Ibrahim14/Waleed-Ibrahim14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
